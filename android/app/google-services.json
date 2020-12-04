@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074584522481",
+    "firebase_url": "https://danz-world.firebaseio.com",
+    "project_id": "danz-world",
+    "storage_bucket": "danz-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074584522481:android:cdf1f6543f9a1262aba350",
+        "android_client_info": {
+          "package_name": "com.example.virtoustack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074584522481-bcd2ok1pbrlvmp5naggut1ln1v3ht9fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtoustack",
+            "certificate_hash": "0f078b52eb533b16c967a3bd1fb611645b693b03"
+          }
+        },
+        {
+          "client_id": "1074584522481-ea13uh19tpc9jn7i2nl5siv2vt5l7e25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzE24lyeWRxfrauIi12nVs2O8r-Wet9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074584522481-ea13uh19tpc9jn7i2nl5siv2vt5l7e25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
